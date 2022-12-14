@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "@capacitor-community/bluetooth-le": "^2.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wenge8n/arceptive-bluetooth-le.git"
